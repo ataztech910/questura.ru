@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow: /old
+Disallow: /cabinet/register/*
+Disallow: /alfa
+Host: questura.ru

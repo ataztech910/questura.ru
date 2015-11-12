@@ -1,0 +1,1 @@
+<div id="YMapsID" style="width: 100%; height: 600px"></div>
